@@ -26,10 +26,11 @@ a) Classification:
      Youtube Link: https://youtu.be/y4zrZlkHhns
      Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Binary_Classification.ipynb
   2. MultiClass Classification - Classifies multiple categories
-     Youtube Link: https://youtu.be/y4zrZlkHhns
-     Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Binary_Classification.ipynb
-     
-  5. Regression
+     Youtube Link: 
+     Colab file: 
+  3. Regression -
+     Youtube Link: https://youtu.be/fCwjAHbB1YM
+     Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Regression.ipynb
 
 
  
