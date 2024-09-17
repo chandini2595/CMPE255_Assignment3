@@ -9,7 +9,7 @@ b) you need to do a long video tutorial - going over each of the colab and expla
 Neatly organize your github directory with proper readme file - i will randomly load and execute some colabs during corrections. 
 
 
-Outcome:
+Answer:
 Pycaret: It is an open source Machine Learning Library in Python and automates ML workflows. It is used to replace 100 lines of code with few lines only.
 It contains many ML libraries like scikit-learn, XGBoost, LightGBM
 
@@ -23,7 +23,7 @@ There are five steps in Pycaret.
 Machine Learning Algorithms using Pycaret:
 
 a) Classification:
-  1. Binary Classification - Classifies two categories.
+  1. Binary Classification - Classifies two categories. 
      Youtube Link: https://youtu.be/y4zrZlkHhns
      Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Binary_Classification.ipynb
      
@@ -34,6 +34,15 @@ a) Classification:
   3. Regression - used to predict continuous values based on one or more variables
      Youtube Link: https://youtu.be/fCwjAHbB1YM
      Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Regression.ipynb
+     
+b) Clustering - Used to identify distinct groups within the data.
+    Youtube Link: https://youtu.be/nttnBuLpTn4
+    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Clustering.ipynb
+     
+c) Anamoly Detection - Used to identify unusual patterns or outliers in data. Eg: Fraud detection
+    Youtube Link: https://youtu.be/06P8bYzTNK4
+    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Anomaly_Detection.ipynb
+
 
 
  
