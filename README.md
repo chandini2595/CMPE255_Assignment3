@@ -20,15 +20,15 @@ There are five steps in Pycaret.
 4. Prediction - Predicting the model
 5. Save - Save the model
 
-
+Machine Learning Algorithms using Pycaret:
 a) Classification:
   1. Binary Classification - Classifies two categories.
      Youtube Link: https://youtu.be/y4zrZlkHhns
      Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Binary_Classification.ipynb
   2. MultiClass Classification - Classifies multiple categories
-     Youtube Link: 
-     Colab file: 
-  3. Regression -
+     Youtube Link: https://youtu.be/fDppXgeHNMc
+     Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_MultiClass_Classification.ipynb
+  3. Regression - used to predict continuous values based on one or more variables
      Youtube Link: https://youtu.be/fCwjAHbB1YM
      Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Regression.ipynb
 
