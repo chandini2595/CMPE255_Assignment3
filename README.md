@@ -57,8 +57,14 @@ d) Association Rule Mining - Find frequent itemsets and generate association rul
     
     Youtube Link: https://youtu.be/NPTMg8TP3uA
     
-    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_TimeSeries_Forecasting_Without_Exogenous_Variables.ipynb
+    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Association_Rule_Mining.ipynb
 
+e) Time Series Forecasting - Univariate without Exogenous Variables - Predict future values based on previously observed time-stamped data.
+   Exogenous Variables - Exogenous variables are external factors or variables that are not part of the time series you are predicting, but can have an impact on it.
+   
+      Youtube Link: https://youtu.be/L14Ng6bGDpY
+    
+    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_TimeSeries_Forecasting_Without_Exogenous_Variables.ipynb
 
 
  
