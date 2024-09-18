@@ -66,5 +66,14 @@ e) Time Series Forecasting - Univariate without Exogenous Variables - Predict fu
     
     Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_TimeSeries_Forecasting_Without_Exogenous_Variables.ipynb
 
+  Time Series Forecasting - Univariate with Exogenous Variables
+      
+      Youtube Link: https://youtu.be/vGguMc7YyFE
+    
+    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Time_Series_Forecasting_With_Exogenous_Variables.ipynb
 
- 
+Pycaret and Gradio
+  Youtube Link: https://youtu.be/L14Ng6bGDpY
+    
+    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Time_Series_Forecasting_With_Exogenous_Variables.ipynb
+
