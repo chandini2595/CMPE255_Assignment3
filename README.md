@@ -57,7 +57,7 @@ d) Association Rule Mining - Find frequent itemsets and generate association rul
     
     Youtube Link: https://youtu.be/NPTMg8TP3uA
     
-    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Association_Rule_Mining.ipynb
+    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_TimeSeries_Forecasting_Without_Exogenous_Variables.ipynb
 
 
 
