@@ -26,26 +26,37 @@ a) Classification:
   1. Binary Classification - Classifies two categories. 
 
      Youtube Link: https://youtu.be/y4zrZlkHhns
+
      Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Binary_Classification.ipynb
      
-  3. MultiClass Classification - Classifies multiple categories
+  2. MultiClass Classification - Classifies multiple categories
+
      Youtube Link: https://youtu.be/fDppXgeHNMc
+
      Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_MultiClass_Classification.ipynb
      
-  4. Regression - used to predict continuous values based on one or more variables
+  3. Regression - used to predict continuous values based on one or more variables
+
      Youtube Link: https://youtu.be/fCwjAHbB1YM
+
      Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Regression.ipynb
      
 b) Clustering - Used to identify distinct groups within the data.
+    
     Youtube Link: https://youtu.be/nttnBuLpTn4
+    
     Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Clustering.ipynb
      
 c) Anamoly Detection - Used to identify unusual patterns or outliers in data. Eg: Fraud detection
+    
     Youtube Link: https://youtu.be/06P8bYzTNK4
+    
     Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Anomaly_Detection.ipynb
     
 d) Association Rule Mining - Find frequent itemsets and generate association rules, which show relationships between products that are often bought together.
+    
     Youtube Link: https://youtu.be/NPTMg8TP3uA
+    
     Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Association_Rule_Mining.ipynb
 
 
