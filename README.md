@@ -26,7 +26,6 @@ a) Classification:
   1. Binary Classification - Classifies two categories. 
 
      Youtube Link: https://youtu.be/y4zrZlkHhns
-
      Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Binary_Classification.ipynb
      
   3. MultiClass Classification - Classifies multiple categories
