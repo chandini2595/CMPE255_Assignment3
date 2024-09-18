@@ -73,7 +73,10 @@ e) Time Series Forecasting - Univariate without Exogenous Variables - Predict fu
     Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Time_Series_Forecasting_With_Exogenous_Variables.ipynb
 
 Pycaret and Gradio
-  Youtube Link: https://youtu.be/L14Ng6bGDpY
+  
+    Youtube Link: https://youtu.be/VrfwRdKVd-M
     
-    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Time_Series_Forecasting_With_Exogenous_Variables.ipynb
+    Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Gradio_Iris.ipynb
+    https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Gradio_Insurance.ipynb
+I have uploaded all videos in youtube and provided links & github colab files link here.
 
