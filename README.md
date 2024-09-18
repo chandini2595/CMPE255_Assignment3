@@ -42,6 +42,7 @@ b) Clustering - Used to identify distinct groups within the data.
 c) Anamoly Detection - Used to identify unusual patterns or outliers in data. Eg: Fraud detection
     Youtube Link: https://youtu.be/06P8bYzTNK4
     Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Anomaly_Detection.ipynb
+    
 d) Association Rule Mining - Find frequent itemsets and generate association rules, which show relationships between products that are often bought together.
     Youtube Link: https://youtu.be/NPTMg8TP3uA
     Colab file: https://github.com/chandini2595/CMPE255_Assignment3/blob/main/Pycaret_Association_Rule_Mining.ipynb
